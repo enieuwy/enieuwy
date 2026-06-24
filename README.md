@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ellis 👋
 
-<!--
-**enieuwy/enieuwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ **Independent tool-tinkerer** | 💻 **macOS + terminal power user**
 
-Here are some ideas to get you started:
+I build small, sharp tools so I never do the same thing twice — then delete the ones that aren't pulling their weight.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## What I'm into
+
+- ⚙️ Automation & dotfiles — chezmoi-managed, scripted, reproducible
+- 🔁 Deterministic, reversible migrations (and suspiciously tidy symlinks)
+- 🗂️ Note-sync workflows (Obsidian / Zotero)
+- 🔒 Privacy-by-default pipelines — redact first, ask questions never
+
+## Projects
+
+- 📊 **[showy-quota]([url](https://github.com/enieuwy/showy-quota))** — Always-on AI plan quota strips for SketchyBar, Zellij, and tmux, driven by CodexBar. Beautiful, themeable, minimal.
