@@ -9,6 +9,7 @@ I build small, sharp tools so I never do the same thing twice — then delete th
 ![Zellij](https://img.shields.io/badge/-Zellij-2b2b2b?style=flat-square)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![Zotero](https://img.shields.io/badge/-Zotero-CC2936?style=flat-square&logo=zotero&logoColor=white)
+![oh-my-pi](https://img.shields.io/badge/-oh--my--pi-8A2BE2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjMiIHk9IjUiIHdpZHRoPSIxOCIgaGVpZ2h0PSIzIiByeD0iMSIvPjxyZWN0IHg9IjciIHk9IjgiIHdpZHRoPSIzLjIiIGhlaWdodD0iMTEiIHJ4PSIxIi8%2BPHJlY3QgeD0iMTMuOCIgeT0iOCIgd2lkdGg9IjMuMiIgaGVpZ2h0PSIxMSIgcng9IjEiLz48L3N2Zz4%3D)
 
 ## What I'm into
 
