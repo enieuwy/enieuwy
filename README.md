@@ -24,3 +24,5 @@ I build tools so I never do the same thing twice, delete the ones that aren't pu
 - 📊 **[showy-quota](https://github.com/enieuwy/showy-quota)** — Always-on AI plan quota strips for SketchyBar, Zellij, and tmux, driven by CodexBar. Beautiful, themeable, minimal.
 - 🚚 **[immich-shuttle](https://github.com/enieuwy/immich-shuttle)** — Desktop importer for Immich: pull photos and videos off camera cards, preview and pick exactly what to upload, then send them straight to your server. Native, fast, safe.
 - 🗂️ **[Tabloupe](https://github.com/enieuwy/Tabloupe)** — Save and switch views of your Firefox tab groups. Collapse the groups you don't need; tabs stay open. Optional macOS Focus automation.
+- 🔍 **[glean](https://github.com/enieuwy/glean)** — AI code review across your repos, within your quota and on your schedule. Drives the AI CLIs you already use, streams findings live, and keeps a deduplicated ledger so the same bug is never reported twice.
+- 📚 **[zotio](https://github.com/enieuwy/zotio)** — The trust-and-automation layer for Zotero. Local-fast reads, preview-first writes, and bounded, provenance-tagged context for you, your scripts, and your AI agents.
